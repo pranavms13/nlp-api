@@ -1,0 +1,32 @@
+{
+    "lang":"en",
+    "data": [
+      {
+        "intent": "greetings.bye",
+        "utterances": [
+          "goodbye for now",
+          "bye bye take care",
+          "okay see you later",
+          "bye for now",
+          "i must go"
+        ],
+        "answers": [
+          "Till next time",
+          "Goodbye",
+          "see you soon!"
+        ]
+      },
+      {
+        "intent": "greetings.hello",
+        "utterances": [
+          "howdy",
+          "hi",
+          "hello"
+        ],
+        "answers": [
+          "Hey there!",
+          "Greetings !!"
+        ]
+      }
+    ]
+  }
